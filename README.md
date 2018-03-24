@@ -8,3 +8,8 @@ The web app currently works but needs further tweaking.  Right now, it is pretty
 Zed wrote in the last chapter of the book.  I am currently working to make the "Laser Weapon Armory" room
 use a random number for the keypad code and allow the player 10 guesses to get the correct code.  There is a lot
 more to be done on this app, but this is a solid start.
+
+## Built with:
+- Mostly Ruby
+- Sinatra
+- HTML
